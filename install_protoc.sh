@@ -1,6 +1,6 @@
 #! /bin/bash
 
-RELEASE="v1.12.x"
+RELEASE="v1.12.0"
 LATEST=$(curl -s -L https://grpc.io/release)
 PROTOBUF_RELEASE="3.5.1"
 
